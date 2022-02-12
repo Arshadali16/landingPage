@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/landingPage/static/css/main.1cdaa77a.css",
+    "main.js": "/landingPage/static/js/main.3081ebda.js",
+    "static/media/software.jpg": "/landingPage/static/media/software.9a2dc6449239574c3fa7.jpg",
+    "static/media/android.jpg": "/landingPage/static/media/android.4ccd15a6346a7ae6345f.jpg",
+    "static/media/marketing.jpg": "/landingPage/static/media/marketing.62d367dabfd6cf6eb7fd.jpg",
+    "static/media/web.jpg": "/landingPage/static/media/web.f41b765494eb4f4163d9.jpg",
+    "static/media/about.svg": "/landingPage/static/media/about.a24746d72d7c5ba1761cdaa6e7b6ba10.svg",
+    "static/media/home.svg": "/landingPage/static/media/home.671d560de74fcab3a8be3e248aba2b1f.svg",
+    "static/media/fullstack.jpg": "/landingPage/static/media/fullstack.a487c136646ae934eb4b.jpg",
+    "index.html": "/landingPage/index.html",
+    "main.1cdaa77a.css.map": "/landingPage/static/css/main.1cdaa77a.css.map",
+    "main.3081ebda.js.map": "/landingPage/static/js/main.3081ebda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cdaa77a.css",
+    "static/js/main.3081ebda.js"
+  ]
+}
